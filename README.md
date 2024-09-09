@@ -1,0 +1,2 @@
+# ExtraiTextoImagem
+ExtraiTextoImagem
