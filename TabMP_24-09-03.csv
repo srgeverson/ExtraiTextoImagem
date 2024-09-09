@@ -1,0 +1,17 @@
+Código MP,Descrição
+01,Dinheiro
+02,Cheque
+03,Cartão de Créd
+04,Cartão de Débi
+05,Crédito na Loj
+10,Vale Alimentaç
+11,Vale Refeição
+12,Vale Presente
+13,Vale Combustív
+15,Boleto Bancári
+16,Depósito Bancá
+17,Pagamento Inst
+18,Transferência
+19,Programa de fi
+90,Sem Pagamento
+99,Outros

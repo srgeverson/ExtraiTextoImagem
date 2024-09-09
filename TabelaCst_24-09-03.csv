@@ -1,0 +1,18 @@
+Grupo ICMS, Código Situação Tributária, Descrição
+ICMS00,0,Tributada integralmente
+ICMS00,1,Tributada pelo Simples Nacional sem permissão de crédito
+ICMS00,12,Tributada com ICMS devido por substituição tributária relativo às operações e prestações antecedente
+ICMS00,13,Tributada com ICMS devido por substituição tributária relativo às operações e prestações concomitan
+ICMS00,14,Tributada pelo Simples Nacional sem permissão de crédito e com ICMS devido por substituição tributár
+ICMS00,20,Tributada com redução de base de cálculo ou redução do imposto
+ICMS00,21,Tributada pelo Simples Nacional com redução do imposto e sem permissão de crédito
+ICMS00,72,Tributada com redução de base de cálculo ou com redução do imposto e com ICMS devido por substituiç
+ICMS00,73,Tributada pelo Simples Nacional com redução do imposto, sem permissão de crédito e com ICMS devido p
+ICMS00,74,Tributada com redução de base de cálculo ou com redução do imposto e com ICMS devido por substituiçã
+ICMS00,75,Tributada pelo Simples Nacional com redução do imposto, sem permissão de crédito e com ICMS devido 
+ICMS00,90,Outros
+ICMS40,30,Isenta ou não tributada com ICMS devido por substituição tributária
+ICMS40,40,Isenta
+ICMS40,41,Não tributada
+ICMS40,60,ICMS cobrado anteriormente por substituição tributária ou por antecipação com encerramento de tribu
+ICMS40,61,Tributação monofásica sobre combustíveis cobrada anteriormente
